@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Kathrine
 [instagram]: https://www.instagram.com/Kathrine
-[linkedin]: https://linkedin.com/in/Kathrine
+[linkedin]: https://linkedin.com/in/Kathrine Bosarge
