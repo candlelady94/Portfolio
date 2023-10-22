@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kathrine, an <a href="https://linkedin.com/in/Kathrine Bosarge">IT Professional</a>☺</h1>
+<h1>Hi, I'm Kathrine, an <a href="https://linkedin.com/in/KathrineBosarge">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
