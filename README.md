@@ -1,6 +1,6 @@
-<h1>Hi, I'm Kathrine, an <a href="https://linkedin.com/in/kathrine-bosarge-31b741238">IT Professional<
+<h1>Hi, I'm Kathrine, an <a href="https://linkedin.com/in/kathrine-bosarge-31b741238">IT Professional<h1></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/candlelady94/osticket-prereqs)
